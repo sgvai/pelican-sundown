@@ -8,12 +8,14 @@ body {
   font-weight:300;
 }
 
-.grv-img {
-  border-radius: 50%;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
+.logo-img {
+  border-radius: 10%;
+  -moz-border-radius: 10%;
+  -webkit-border-radius: 10%;
   margin-right: auto;
   margin-left: auto;
+  background: #000000;
+  height: 6.0em;
 }
 
 h1, h2, h3, h4, h5, h6 {
